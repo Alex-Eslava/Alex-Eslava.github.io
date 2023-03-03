@@ -2,6 +2,7 @@
 
 This is a WIP, much like everything else I do I guess hehe
 
+TODO: Add language selection
 
 Credits:
 
